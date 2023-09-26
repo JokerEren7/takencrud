@@ -17,9 +17,9 @@
             <div class="mt-4">
                 <strong>Status:</strong>
                 @if ($task->completed)
-                    <span class="bg-green-500 text-white px-2 py-1 rounded-full text-sm">Completed</span>
+                    <span class="bg-green-500 text-white px-2 py-1 rounded-full text-sm">Compleet</span>
                 @else
-                    <span class="bg-red-500 text-white px-2 py-1 rounded-full text-sm">Incomplete</span>
+                    <span class="bg-red-500 text-white px-2 py-1 rounded-full text-sm">Incompleet</span>
                 @endif
             </div>
         </div>
