@@ -55,7 +55,7 @@
             </ul>
         </div>                    
         <div class="flex justify-center mt-4">
-        <a href="{{ route('tasks.create') }}" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 focus:outline-none">Create Task</a>
+        <a href="{{ route('tasks.create') }}" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 focus:outline-none">Create Taak</a>
     </div>
     </div>
 </body>
