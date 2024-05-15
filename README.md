@@ -1,3 +1,7 @@
+#Uitleg project Takencrud
+Ik heb deze Takenlijst project gemaakt met laravel webframework met de talen PHP, Tailwind en node npm. Ik gebruik database mysql en host het op localhost:8000.
+Met deze project kunt u taken maken wijzigen en taken voltooien. 
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
